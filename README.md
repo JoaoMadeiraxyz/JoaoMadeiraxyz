@@ -6,7 +6,7 @@
 
    Discord: ! Kouhay#7809
    
-   Linkedin: https://www.linkedin.com/in/jo%C3%A3o-victor-332910234
+   Linkedin: https://www.linkedin.com/in/joão-victor-madeira
 
 <!---
 JoaoMadeiraxyz/JoaoMadeiraxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
