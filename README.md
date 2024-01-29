@@ -1,4 +1,4 @@
-## Olá, eu sou João Victor, e eu sou um Programador Junior!!
+## Hi, my name is João Victor and I'm a Junior Web Developer!!
 <div align="center">
   <a href="https://github.com/JoaoMadeiraxyz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMadeiraxyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
